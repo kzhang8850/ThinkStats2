@@ -2,7 +2,7 @@
 ## by Kevin Zhang
 ## 2/14/2017
 
-###### Introduction:
+##### Introduction:
 
 In the United States, controversial debates generally devolve into a binary discourse, either liberal or conservative, left or right. One thing that liberals stereotypically assume about conservatives is that they are ignorant of the facts, that they just don't know what going on in the world, which is why their claims seem so alien. But does this stereotype hold up in other countries as well? As a person who identifies as liberal, I'm curious as to whether being more informed about politics and current affairs leads to being more liberal as a general principle, or whether it is just more of a mislead stereotype that is used by liberals to somehow advance their argument. The purpose of this article is find out whether that hypothesis is true.
 
@@ -31,7 +31,7 @@ Figure 1 is a visualization of 4 CDFs which correspond to the 4 groups, as shown
 
 ![alt text](LRScaleMean.png)
 
-*Figure 2: A CDF plot showing the means of the 4 groups on the political spectrum.*
+*Figure 2: A table showing the means of the 4 groups on the political spectrum.*
 
 As can be seen, there is little indication of a pattern of some sort in the means of the 4 groups, and any difference is less than 0.1 on a 0-10 scale which is a difference of less 1%, which isn't super substantial. The Cohen Effect Size is -.038, which further supports little difference between the two. It would appear that the assertion that the political spectrum showing a pattern among liberals and higher levels of information would be tenuous.
 
