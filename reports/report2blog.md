@@ -28,9 +28,10 @@ Figure 1 shows a time series graph qualitatively displaying the probabilities fo
 
 To more quantitatively display the results above, Figure 2 below shows the derivation and direct comparison of the probabilities for the two regions for the most recent year of available data, 2015.
 
-||                    Casualties (2015)                         ||
-| :------: | :----: | :-------:|
+
+
 |North America | Middle East | Difference |
+| :------: | :----: | :-------:|
 | 1 in 4,139,212 | 1 in 11,997 | NA is 345 times greater|
 
 
@@ -48,9 +49,9 @@ Figure 3 is another time series graph, this time showing the two regions for the
 
 Looking at Figure 3 in a quantitative manner, Figure 4 below shows the derivation and direct comparison of the probabilities for the two regions for the most recent year of available data, 2015.
 
-||                   Damage or Hostage (2015)                         ||
-| :------: | :----: | :-------:|
+
 |North America | Middle East | Difference |
+| :------: | :----: | :-------:|
 | 1 in 15,622,187 | 1 in 242,492 | NA is 64 times greater|
 
 
