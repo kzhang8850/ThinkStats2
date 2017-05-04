@@ -5,6 +5,10 @@
 
 #### Data Science Spring 2017
 
+Source code in [ipython notebook.](https://github.com/kzhang8850/MLFood/blob/master/Report3.ipynb)
+
+
+
 <p align="center">
   <img src="food_pyramid.jpg"/>
 </p>
